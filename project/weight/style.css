@@ -1,0 +1,27 @@
+/* google font */
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Redressed&display=swap');
+
+
+body{
+    background-color: #64626c;
+    box-sizing: border-box;
+    font-family: 'Josefin Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.img-small{
+    width: 6rem;
+}
+.cancel-img{
+    width: 25px !important;
+}
+.cart{
+	background-color: #F2F2F2;
+	padding: 70px !important;
+}
+.items{
+  background-color: black;
+}
+.container py-2{
+  background-color: black;
+}
